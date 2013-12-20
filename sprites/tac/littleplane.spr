@@ -1,0 +1,18 @@
+littleplane.png
+
+66 1
+66 1
+
+DIR_NORTH
+0 0
+0 1
+0 2
+0 1
+END
+
+DIR_SOUTH
+1 8
+1 7
+1 6
+1 7
+END

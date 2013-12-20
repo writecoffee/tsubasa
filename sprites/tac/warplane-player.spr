@@ -1,0 +1,26 @@
+warplane.png
+200 0
+200 0
+
+DIR_NORTH
+2 2
+1 2
+0 2
+END
+
+DIR_SOUTH
+2 2
+3 2
+4 2
+END
+
+DIR_EAST
+2 2
+END
+
+DIR_WEST
+2 2
+2 1
+2 0
+END
+

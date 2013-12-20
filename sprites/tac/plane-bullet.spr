@@ -1,0 +1,14 @@
+plane-bullet.png
+
+70 0
+50 0
+
+P_BULLET_EAST
+0 0
+1 0
+END
+
+C_BULLET_WEST
+0 1
+1 1
+END

@@ -1,0 +1,25 @@
+sprites.png
+33 1
+33 1
+
+DIR_NORTH
+0 3
+END
+
+DIR_SOUTH
+0 6
+END
+
+DIR_EAST
+0 5
+END
+
+DIR_WEST
+0 4
+END
+
+HIT
+0 7
+0 8
+0 7
+END
